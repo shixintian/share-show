@@ -1,0 +1,18 @@
+{
+  "version": "0.0.0",
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "bootstrap": {
+      "npmClientArgs": ["--no-package-lock"],
+      "hoist": true
+    },
+    "publish": {
+      "ignoreChanges": [
+        "*.md",
+        "__tests__/**"
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "tian-test2",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "史心甜 <shixintian@jd.com>",
+  "homepage": "https://github.com/shixintian/share-show#readme",
+  "license": "ISC",
+  "main": "lib/tian-test2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shixintian/share-show.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/shixintian/share-show/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
