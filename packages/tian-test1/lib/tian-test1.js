@@ -4,7 +4,7 @@ const tianTest2 = require('tian-test2');
 
 function tianTest1() {
     // TODO
-    console.log('tianTest1');
+    console.log('tianTest1 02');
     tianTest2();
 }
 
