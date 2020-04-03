@@ -1,6 +1,6 @@
 {
   "name": "tian-test1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "史心甜 <shixintian@jd.com>",
   "homepage": "https://github.com/shixintian/share-show#readme",
@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "lodash": "^4.17.15",
-    "tian-test2": "^0.0.1"
+    "tian-test2": "^0.0.2"
   }
 }
